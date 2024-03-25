@@ -1,0 +1,22 @@
+Route: Shadman_To_Riphah
+Timing: 7am_To_9am
+Rent: 300_Rupees
+_______________
+Train number: 262626
+Number of seats: 43
+Route: Shadman_To_Riphah
+Timing: 7am_To_9am
+Rent: 300_Rupees
+_______________
+Train number: 5555
+Number of seats: 35
+Route: Lahore_To_Karachi
+Timing: 6am_To_12pm
+Rent: 10000_Pkr
+_______________
+Train number: 1234567
+Number of seats: 45
+Route: Lahore_To_Faislabad
+Timing: 5pm_To_9am
+Rent: 5600_Pkr
+_______________

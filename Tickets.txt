@@ -1,0 +1,12 @@
+Passenger name: Salman
+Number of tickets: 4
+Route: Lahore_To_Faislabad
+_______________
+Passenger name: samikhan
+Number of tickets: 5
+Route: Shadman_To_Riphah
+_______________
+Passenger name: Aisha
+Number of tickets: 4
+Route: Shadman_To_Riphah
+_______________
